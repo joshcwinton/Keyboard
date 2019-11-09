@@ -2,7 +2,7 @@
 
 I'm building a keyboard!
 
-Here's a look at my plan: https://www.overleaf.com/read/kvkkjwxgwrwt
+Here's a look at [my plan.](https://www.overleaf.com/read/kvkkjwxgwrwt)
 
 ## To do's
 - Set up a button to play audio
@@ -17,4 +17,6 @@ Here's a look at my plan: https://www.overleaf.com/read/kvkkjwxgwrwt
 - Set up display
 - Set up amplifier and speakers, don't currently have an audio input though
 - Tested 9V battery holder 
-- https://youtu.be/ltVYwizaBZc
+- <a href="http://www.youtube.com/watch?feature=player_embedded&v=ltVYwizaBZc
+" target="_blank"><img src="http://img.youtube.com/vi/ltVYwizaBZc/0.jpg" 
+alt="Display test video" width="240" height="180" border="10" /></a>
