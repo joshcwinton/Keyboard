@@ -1,4 +1,4 @@
-# My Final Project For Embedded Systems and Microprocessors
+# Final Project For Embedded Systems and Microprocessors
 
 I'm building a keyboard!
 
