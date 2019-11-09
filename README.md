@@ -17,3 +17,4 @@ Here's a look at my plan: https://www.overleaf.com/read/kvkkjwxgwrwt
 - Set up display
 - Set up amplifier and speakers, don't currently have an audio input though
 - Tested 9V battery holder 
+- https://youtu.be/ltVYwizaBZc
