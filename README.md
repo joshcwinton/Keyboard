@@ -20,3 +20,7 @@ Here's a look at [my plan.](https://www.overleaf.com/read/kvkkjwxgwrwt)
 - <a href="http://www.youtube.com/watch?feature=player_embedded&v=ltVYwizaBZc
 " target="_blank"><img src="http://img.youtube.com/vi/ltVYwizaBZc/0.jpg" 
 alt="Display test video" width="240" height="180" border="10" /></a>
+
+### 11/15
+- Decided that I2C Amp Lirary actually works
+- Wrote Mary Had a Little Lamb using Tone
